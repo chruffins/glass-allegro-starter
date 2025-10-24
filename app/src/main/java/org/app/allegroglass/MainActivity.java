@@ -1,7 +1,6 @@
-package org.app.liballeg;
+package org.app.allegroglass;
 
 import org.liballeg.android.AllegroActivity;
-import android.util.Log;
 
 public class MainActivity extends AllegroActivity {
     static {

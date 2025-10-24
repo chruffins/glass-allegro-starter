@@ -1,4 +1,4 @@
-package org.app.liballeg;
+package org.app.allegroglass;
 
 import android.content.Context;
 
